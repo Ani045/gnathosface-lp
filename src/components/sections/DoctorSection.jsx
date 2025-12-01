@@ -40,7 +40,7 @@ const DoctorSection = () => {
                         </span>
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                        Experienced maxillofacial surgeons delivering exceptional care in facial and jaw treatments.[attached_file:1]
+                        Experienced maxillofacial surgeons delivering exceptional care in facial and jaw treatments.
                     </p>
                 </div>
 
@@ -75,7 +75,7 @@ const DoctorSection = () => {
                                     <h3 className="text-base sm:text-lg font-bold text-gray-900 leading-tight">
                                         {doctor.name}
                                     </h3>
-                                    <p className="text-primary-600 hidden  font-semibold text-xs sm:text-sm leading-relaxed">
+                                    <p className="text-primary-600   font-semibold text-xs sm:text-sm leading-relaxed">
                                         {doctor.title}
                                     </p>
 
